@@ -61,7 +61,7 @@ const App = () => {
 
   async function registerCall(agentId: string): Promise<{ access_token: string }> {
     try {
-      const response = await fetch("https://al-wathba-backend.onrender.com/create-web-call", {
+      const response = await fetch("http://gritbytedemo-env.eba-crqwszf6.us-east-1.elasticbeanstalk.com/create-web-call", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
