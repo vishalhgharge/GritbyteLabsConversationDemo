@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7abcc198.css",
+    "main.js": "/static/js/main.95cf0c3d.js",
+    "static/media/raleway-latin-400-normal.woff": "/static/media/raleway-latin-400-normal.7274e8a7766c320ff67b.woff",
+    "static/media/raleway-latin-400-normal.woff2": "/static/media/raleway-latin-400-normal.bc8445f492c7fbf7a0bb.woff2",
+    "static/media/raleway-latin-ext-400-normal.woff2": "/static/media/raleway-latin-ext-400-normal.150303dc14f4d1e0c2c9.woff2",
+    "static/media/raleway-latin-ext-400-normal.woff": "/static/media/raleway-latin-ext-400-normal.56b5b154afe24082cb30.woff",
+    "static/media/raleway-cyrillic-ext-400-normal.woff2": "/static/media/raleway-cyrillic-ext-400-normal.4482e08504d544757971.woff2",
+    "static/media/raleway-cyrillic-400-normal.woff2": "/static/media/raleway-cyrillic-400-normal.699b459f21e39ca4b8df.woff2",
+    "static/media/raleway-cyrillic-ext-400-normal.woff": "/static/media/raleway-cyrillic-ext-400-normal.5a5510fbec564ecd00ed.woff",
+    "static/media/raleway-cyrillic-400-normal.woff": "/static/media/raleway-cyrillic-400-normal.085b633264f5a36c2e35.woff",
+    "static/media/raleway-vietnamese-400-normal.woff2": "/static/media/raleway-vietnamese-400-normal.5212361bfd059a27e2da.woff2",
+    "static/media/raleway-vietnamese-400-normal.woff": "/static/media/raleway-vietnamese-400-normal.b1a419d3ead111471ac7.woff",
+    "index.html": "/index.html",
+    "main.7abcc198.css.map": "/static/css/main.7abcc198.css.map",
+    "main.95cf0c3d.js.map": "/static/js/main.95cf0c3d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7abcc198.css",
+    "static/js/main.95cf0c3d.js"
+  ]
+}
