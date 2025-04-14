@@ -81,7 +81,7 @@ const App = () => {
 
   return (
     <div className="App">
-      <h3 style={{ marginBottom: '50px', fontFamily: 'Raleway, sans-serif' }}>Gritbyte Labs Conversation Demo - English</h3>
+      <h1 style={{ marginBottom: '50px', fontFamily: 'Raleway, sans-serif' }}>Hashxpert</h1>
       <header className="App-header">
         
         
